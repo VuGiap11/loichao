@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\dientichhinhchunhat\loichao\bin\Debug\loichao.exe.config
+C:\Users\tuan\Desktop\dientichhinhchunhat\loichao\bin\Debug\loichao.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\loichao\bin\Debug\loichao.pdb
+C:\Users\tuan\Desktop\dientichhinhchunhat\loichao\obj\Debug\loichao.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\loichao\obj\Debug\loichao.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\loichao\obj\Debug\loichao.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\dientichhinhchunhat\loichao\obj\Debug\loichao.exe
+C:\Users\tuan\Desktop\dientichhinhchunhat\loichao\obj\Debug\loichao.pdb
